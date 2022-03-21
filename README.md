@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Rahman Abubakar.
-- 👀 I’m interested in Cybersecurity.
+- 👀 I’m interested in Cybersecurity and Data Privacy. 
 - 🌱 I’m currently learning Python, Pentesting, Vulnerability analysis and OSINT.
-- 💞️ I’m looking to collaborate on security tools and securing the internet.
+- 💞️ I’m looking to collaborate on security tools and securing the internet(Data).
 - 📫 Reach me on linkedin.com/in/abdul-rahman-abubakar-056794220.
 
 <!---
